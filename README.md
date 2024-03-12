@@ -1,17 +1,6 @@
 
 # Project: Job Role Recommendation App
 
-# Installation
-
-### Clone this Repository
-
-Enter the target directory you want to use, and use this command to clone and enter the folder:
-
-```bash
-git clone https://github.com/Vicchan2324/IT5006.git
-cd IT5006
-```
-
 ### Create virtual Environment
 
 ```bash

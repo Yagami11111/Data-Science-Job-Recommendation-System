@@ -23,11 +23,11 @@ Kaggle's Annual Machine Learning and Data Science Survey from the past three yea
 #### [(streamlit app link)](https://it5006-kxx3jsq4iscaa9vyoqohvk.streamlit.app/)
 
 ### Files structure   
-#### You are recommended to run through notebooks from 0 to 3.
-#### 0Preprocess.ipynb is to preprocess the three datasets and merge them by the same questions    
-#### 1Data_Cleaning.ipynb is further data cleaning and extract useful features from dirty data.
-#### 2Model_Training&Evaluation.ipynb is model training and evaluation. We did feature selection and evaluated three models.
-#### 3GBM_Model_training.ipynb is the final model training and model exportation. We selected GBM and exported pretrained model for our streamlit app to use.
+You are recommended to run through notebooks from 0 to 3.
+0Preprocess.ipynb is to preprocess the three datasets and merge them by the same questions    
+1Data_Cleaning.ipynb is further data cleaning and extract useful features from dirty data.
+2Model_Training&Evaluation.ipynb is model training and evaluation. We did feature selection and evaluated three models.
+3GBM_Model_training.ipynb is the final model training and model exportation. We selected GBM and exported pretrained model for our streamlit app to use.
 
 ### Technical Report
 The Technical Report.pdf provides an overall technical summary of the entire project. This report includes detailed descriptions of the methodologies, data preprocessing steps, model training processes, and evaluation metrics used in the project.

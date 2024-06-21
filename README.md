@@ -20,6 +20,11 @@ streamlit run Main.py
 Kaggle's Annual Machine Learning and Data Science Survey from the past three years (2020-2022)
 
 ### Project Tasks
+
+- **Data Preprocessing**: Merge and clean datasets to ensure consistency.
+- **EDA**: Uncover trends and correlations in the data science industry.
+- **Model Training**: Evaluate and compare RandomForest, XGBoost, and GBM models.
+- **Recommendation System**: Implement GBM model to predict job roles.
 #### [(streamlit app link)](https://it5006-kxx3jsq4iscaa9vyoqohvk.streamlit.app/)
 
 ### Files structure   
